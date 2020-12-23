@@ -60,12 +60,27 @@ I am confident that my previous experience is a higly valuable asset to build my
 
 ## Education
 
-## Skills
+- 2015 - 2016 MSc Finance [Exchange Programme]
+  European Business School, London
+- 2014 - 2015 MSc Finance CEMA University, Buenos Aires
+- 2005 - 2010 Bachelor of Business Administration, Finance Universidad Nacional del Centro de la Provincia de Buenos Aires
 
-| ------------- | ------------------ |
-| Nodejs | Modelling |
-| React | Data visualization |
-| PostgreSQL | Planning |
-| GraphQL | M&A analysis |
-| Apollo Server | Financial Analysis |
-| PostgreSQL | |
+## Training & Skills
+
+- Nodejs
+- Modelling
+- React
+- PostgreSQL
+- GraphQL
+- Apollo Server
+- PostgreSQL
+- CFA Level 1 (2019): Chartered Financial Analyst.
+- Databases and SQL for Data Science (2020). Coursera.
+- Foundations of Data Science (2018): Computational Thinking with Python and Inferential Thinking by
+  Resampling. University of California, Berkeley (edX).
+- Technical and Fundamental Analysis Course (2014), CEMA University.
+- Executive Programme in Capital Markets (2013), CEMA University.
+- Presentation, Leadership and Coaching training (2010), KPMG.
+- IT Skills: SAP, Sisense, Eikon Reuters, Sage, Microsoft Office Suite (Advanced Excel), Factset, SQL, Python
+  Programming.
+- Language: English (fluent), Spanish (native).
