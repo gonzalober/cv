@@ -60,11 +60,12 @@ I am confident that my previous experience is a higly valuable asset to build my
 
 ## Education
 
-| Skills        |
+## Skills
+
 | ------------- | ------------------ |
-| Nodejs        | Modelling          |
-| React         | Data visualization |
-| PostgreSQL    | Planning           |
-| GraphQL       | M&A analysis       |
+| Nodejs | Modelling |
+| React | Data visualization |
+| PostgreSQL | Planning |
+| GraphQL | M&A analysis |
 | Apollo Server | Financial Analysis |
-| PostgreSQL    |                    |
+| PostgreSQL | |
