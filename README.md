@@ -60,10 +60,11 @@ I am confident that my previous experience is a higly valuable asset to build my
 
 ## Education
 
-- 2015 - 2016 MSc Finance [Exchange Programme]
-  European Business School, London
-- 2014 - 2015 MSc Finance CEMA University, Buenos Aires
-- 2005 - 2010 Bachelor of Business Administration, Finance Universidad Nacional del Centro de la Provincia de Buenos Aires
+- 2020 Makers Academy Sofware Development Bootcamp.
+- CFA Level 1 (2019): Chartered Financial Analyst.
+- 2015 - 2016 MSc Finance [Exchange Programme] European Business School, London.
+- 2014 - 2015 MSc Finance CEMA University, Buenos Aires.
+- 2005 - 2010 Bachelor of Business Administration, Finance Universidad Nacional del Centro de la Provincia de Buenos Aires.
 
 ## Training & Skills
 
@@ -74,7 +75,6 @@ I am confident that my previous experience is a higly valuable asset to build my
 - GraphQL
 - Apollo Server
 - PostgreSQL
-- CFA Level 1 (2019): Chartered Financial Analyst.
 - Databases and SQL for Data Science (2020). Coursera.
 - Foundations of Data Science (2018): Computational Thinking with Python and Inferential Thinking by
   Resampling. University of California, Berkeley (edX).
