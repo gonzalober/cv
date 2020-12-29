@@ -1,6 +1,6 @@
 # Gonzalo Berhouet
 
-I am a recently graduated sofware developer with a strong set of finance and commercial skills.
+I am a recently graduated software developer with a strong set of finance and commercial skills.
 
 I completed the Makers Academy Bootcamp to gain more knowledge on what I would really like to be working on which is being a software developer.
 
