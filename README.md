@@ -81,6 +81,5 @@ I am confident that my previous experience is a higly valuable asset to build my
 - Technical and Fundamental Analysis Course (2014), CEMA University.
 - Executive Programme in Capital Markets (2013), CEMA University.
 - Presentation, Leadership and Coaching training (2010), KPMG.
-- IT Skills: SAP, Sisense, Eikon Reuters, Sage, Microsoft Office Suite (Advanced Excel), Factset, SQL, Python
-  Programming.
+- IT Skills: SAP, Sisense, Eikon Reuters, Sage, Microsoft Office Suite (Advanced Excel), Factset.
 - Language: English (fluent), Spanish (native).
