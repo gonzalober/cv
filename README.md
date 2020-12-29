@@ -16,8 +16,8 @@ I am confident that my previous experience is a highly valuable asset to build m
 
 I worked on different full stack projects with emphasis on Javascript, Ruby, TDD, integration tests, pair programming and CI/CD with Travis.
 Some of the projects I worked on were:
-- CatchMe app: a web application that allows you to race with your friends remotely. The backend is done with Node.js, frontend with React, they communicate with a graphql API, database with PostgreSQL and to get the coordinates it uses the web navigator geolocation API(Javascript). Frontend repo [here](https://github.com/gonzalober/catchme-web), backend repo [here](https://github.com/kiriarf/catchme-server)
-- Acebook App: Frontend repo [here](https://github.com/charlie-galb/acebook-team-lifesavers-frontend), backend repo [here](https://github.com/gonzalober/acebook-team-life-savers)
+- CatchMe app: a web application that allows you to race with your friends remotely. The backend is done with Node.js, frontend with React, they communicate with a graphql API, database with PostgreSQL and to get the coordinates it uses the web navigator geolocation API(Javascript). Frontend repo [here](https://github.com/gonzalober/catchme-web), backend repo [here](https://github.com/kiriarf/catchme-server).
+- Acebook App: a web application where the user can send public messages to friends that they and its friends can see and comment and/or like on their messages.The backend is built in Ruby on Rails, frontend with React Native, API interface ActiveRecord, database with PostgreSQL. Frontend repo [here](https://github.com/charlie-galb/acebook-team-lifesavers-frontend), backend repo [here](https://github.com/gonzalober/acebook-team-life-savers).
 
 #### January 2019 – July 2020 Dyer Baade & Company (formerly Soprano Consulting), London Senior Financial Analyst
 
