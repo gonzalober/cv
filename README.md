@@ -1,12 +1,12 @@
 # Gonzalo Berhouet
 
-I am a recently graduated junior developer with a strong set of finance and commercial skills.
+I am a recently graduated sofware developer with a strong set of finance and commercial skills.
 
-I completed the Makers Academy bootcamp to gain more knowledge on what I would really like to be working on which is be a software developer.
+I completed the Makers Academy Bootcamp to gain more knowledge on what I would really like to be working on which is being a software developer.
 
-I worked on different languages but with more enphasis in Ruby and Javascript.
+I worked on different languages with more emphasis in Javascript and Ruby.
 
-Previously worked as a Senior Financial Analyst at Dyer Baade & Company M&A consulting firm in which worked with financial datasets, models and produced reports and presentations to the c-level.
+Previously, I worked as a Senior Financial Analyst at Dyer Baade & Company M&A consulting firm in which I worked with financial datasets and models.
 
 I am confident that my previous experience is a higly valuable asset to build my technical knowledge as a software developer.
 
