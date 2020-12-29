@@ -8,7 +8,7 @@ I worked on different languages with more emphasis in Javascript and Ruby.
 
 Previously, I worked as a Senior Financial Analyst at Dyer Baade & Company M&A consulting firm in which I worked with financial datasets and models.
 
-I am confident that my previous experience is a higly valuable asset to build my technical knowledge as a software developer.
+I am confident that my previous experience is a highly valuable asset to build my technical knowledge as a software developer.
 
 ## Experience
 
