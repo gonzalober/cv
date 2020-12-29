@@ -69,17 +69,18 @@ I am confident that my previous experience is a highly valuable asset to build m
 ## Training & Skills
 
 - Nodejs
-- Modelling
+- Javascript
 - React
 - PostgreSQL
 - GraphQL
 - Apollo Server
-- PostgreSQL
-- Databases and SQL for Data Science (2020). Coursera.
+- Ruby
+- Modelling
+- Databases and SQL for Data Science (2020). Coursera
 - Foundations of Data Science (2018): Computational Thinking with Python and Inferential Thinking by
-  Resampling. University of California, Berkeley (edX).
-- Technical and Fundamental Analysis Course (2014), CEMA University.
-- Executive Programme in Capital Markets (2013), CEMA University.
-- Presentation, Leadership and Coaching training (2010), KPMG.
-- IT Skills: SAP, Sisense, Eikon Reuters, Sage, Microsoft Office Suite (Advanced Excel), Factset.
-- Language: English (fluent), Spanish (native).
+  Resampling. University of California, Berkeley (edX)
+- Technical and Fundamental Analysis Course (2014), CEMA University
+- Executive Programme in Capital Markets (2013), CEMA University
+- Presentation, Leadership and Coaching training (2010), KPMG
+- SAP, Sisense, Eikon Reuters, Sage, Microsoft Office, Factset
+- Language: English (fluent), Spanish (native)
