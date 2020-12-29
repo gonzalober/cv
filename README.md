@@ -12,6 +12,13 @@ I am confident that my previous experience is a highly valuable asset to build m
 
 ## Experience
 
+#### September 2020 – December 2020 Makers: intensive coding bootcamp, London
+
+I worked on different full stack projects with emphasis on Javascript, Ruby, TDD, integration tests, pair programming and CI/CD with Travis.
+Some of the projects I worked on were:
+- CatchMe app: a web application that allows you to race with your friends remotely. The backend is done with Node.js, frontend with React, they communicate with a graphql API, database with PostgreSQL and to get the coordinates it uses the web navigator geolocation API(Javascript). Frontend repo [here](https://github.com/gonzalober/catchme-web), backend repo [here](https://github.com/kiriarf/catchme-server)
+- Acebook App: Frontend repo [here](https://github.com/charlie-galb/acebook-team-lifesavers-frontend), backend repo [here](https://github.com/gonzalober/acebook-team-life-savers)
+
 #### January 2019 – July 2020 Dyer Baade & Company (formerly Soprano Consulting), London Senior Financial Analyst
 
 - Create and organise due diligence project plans, reports, and fund statements for top M&A firms.
