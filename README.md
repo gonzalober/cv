@@ -60,7 +60,7 @@ I am confident that my previous experience is a highly valuable asset to build m
 
 ## Education
 
-- 2020 Makers Academy Sofware Development Bootcamp.
+- 2020 Makers Academy Software Development Bootcamp.
 - CFA Level 1 (2019): Chartered Financial Analyst.
 - 2015 - 2016 MSc Finance [Exchange Programme] European Business School, London.
 - 2014 - 2015 MSc Finance CEMA University, Buenos Aires.
