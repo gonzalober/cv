@@ -73,7 +73,6 @@ My experience have demostrated me that when working in a team increases the comm
 
 - Managed loans and leases portfolio, improving significantly the liquidity levels and reducing financing costs by 15% versus the previous year; reduced the time needed for bank loan approval by 40%, triggering increased revenues by 20% for over $11mn.
 - Successfully negotiated the acquisition’s costs with suppliers, increasing gross margin by 10%. Prepared forecast and DCF reports for the CFO.
-- Worked alongside Deloitte auditors to examine financial reports in line with local regulatory agencies.
 
 #### October 2009 – February 2011 KPMG, Buenos Aires Senior Auditor
 
