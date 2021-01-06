@@ -61,8 +61,6 @@ My experience have demostrated me that when working in a team increases the comm
 
 - Produced accurate monthly management accounts and end-of-year management accounts of my expansive portfolio of clients.
 - Prepared, consolidated, and analysed financial reports including the analyses of KPI ́s variances.
-- Helped the CEO of this accountancy practice in acquiring new clients, retaining top clients, revenue
-  forecasting, and managing the company’s P&L statements.
 - Trained junior/graduate accountants to manage and grow their client portfolios.
 
 #### January 2012 – December 2015 SACDE S.A (formerly IECSA S.A), Buenos Aires Senior Financial Analyst
@@ -70,7 +68,6 @@ My experience have demostrated me that when working in a team increases the comm
 - Prepared corporate bonds and issuance reports; fully met 85% target sale of bonds to corporate investors in poor liquidity market conditions. Raised funds for over $200mn.
 - Produced economic and financial reports based on management requirements, containing KPIs and forecast/actual variances analysis. Oversaw SAP project that allowed a reduction in the time for making internal reports by 40%.
 - Completed quantitative/qualitative projects valuation applying DCF model and tested it under sensitivity analysis (WACC).
-- Prepared and consolidated quarterly and annual financial statements according to IFRS and local GAAP standards; met aggressive monthly and quarterly deadlines, producing and submitting reports to local regulatory agencies (equivalent to the FCA) and the stock exchange.
 
 #### March 2011 – December 2011 Avis Budget Group, Buenos Aires Financial Analyst
 
