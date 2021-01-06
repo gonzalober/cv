@@ -17,7 +17,7 @@ I am confident that my previous experience is a highly valuable asset to build m
   I worked on different full stack projects with emphasis on Javascript, Ruby, TDD, integration tests, pair programming, CI/CD with Travis, Heroku.<br>
   Some of the projects I worked on were:<br>
   | Name | Description | Technologies | Testing |
-  | -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
+  | -------------------------- |-----------------------------------------------------------------------------|-------------------|-------------------|
   | [CatchMe app](https://github.com/gonzalober/catchme-web) | A web application that allows you to race with your friends remotely | Backend: Node.js (repo [here](https://github.com/kiriarf/catchme-server)), Frontend: React (repo [here](https://github.com/gonzalober/catchme-web)), PostgresSQL, Graphql, get the coordinates it uses the web navigator geolocation API(Javascript) | Cypress.io |
   | [Acebook App](https://github.com/charlie-galb/acebook-team-lifesavers-frontend) | A web application where the user can post public messages where its friends can see and comment and/or like on their messages. | Backend: Ruby Rails (repo [here](https://github.com/gonzalober/acebook-team-life-savers)), Frontend: React Native (repo [here](https://github.com/charlie-galb/acebook-team-lifesavers-frontend)), Postgres API interface ActiveRecord | Rspec, Jest |
 
