@@ -26,6 +26,17 @@ I am confident that my previous experience is a highly valuable asset to build m
 - 2014 - 2015 MSc Finance CEMA University, Buenos Aires.
 - 2005 - 2010 Bachelor of Business Administration, Finance Universidad Nacional del Centro de la Provincia de Buenos Aires.
 
+## Skills
+
+#### Curiosity
+
+I started being fascinated about programming 5 years ago when I was doing eDx Data science on python courses.
+These courses were really an eye opener to me as I discovered how vast and interesting the coding world is.
+
+#### Team player
+
+My experience have demostrated me that when working in a team increases the commitment of each team member with the team's objective. As a consequence, team's output will be higher quality and with fewer errors. I also have ability, when necessary, to stepback in order to evaluate the different alternatives that my team-mates are proposing.
+
 ## Experience
 
 #### January 2019 – July 2020 Dyer Baade & Company (formerly Soprano Consulting), London Senior Financial Analyst
@@ -71,17 +82,6 @@ I am confident that my previous experience is a highly valuable asset to build m
 
 - Managed and supervised a team of junior colleagues.
 - Credit and loan revision of the accounting records applying research and analyses process.
-
-## Skills
-
-#### Curiosity
-
-I started being fascinated about programming 5 years ago when I was doing eDx Data science on python courses.
-These courses were really an eye opener to me as I discovered how vast and interesting the coding world is.
-
-#### Team player
-
-My experience have demostrated me that when working in a team increases the commitment of each team member with the team's objective. As a consequence, team's output will be higher quality and with fewer errors. I also have ability, when necessary, to stepback in order to evaluate the different alternatives that my team-mates are proposing.
 
 ## Training
 
