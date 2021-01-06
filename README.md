@@ -10,11 +10,23 @@ Previously, I worked as a Senior Financial Analyst at Dyer Baade & Company M&A c
 
 I am confident that my previous experience is a highly valuable asset to build my technical knowledge as a software developer.
 
+## Education
+
+- Sept to Dec 2020 Makers Academy Software Development Bootcamp.
+  Nodejs, Javascript, React, PostgreSQL, GraphQL, Apollo Server, Ruby<br>
+  I worked on different full stack projects with emphasis on Javascript, Ruby, TDD, integration tests, pair programming, CI/CD with Travis, Heroku<br>
+  Some of the projects I worked on were:<br>
+  | Name | Description | Technologies | Testing |
+  | -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
+  | [CatchMe app](https://github.com/gonzalober/catchme-web) | A web application that allows you to race with your friends remotely | Backend: Node.js (repo [here](https://github.com/kiriarf/catchme-server)), Frontend: React (repo [here](https://github.com/gonzalober/catchme-web)), PostgresSQL, Graphql, get the coordinates it uses the web navigator geolocation API(Javascript) | Cypress.io |
+  | [Acebook App](https://github.com/charlie-galb/acebook-team-lifesavers-frontend) | A web application where the user can post public messages where its friends can see and comment and/or like on their messages. | Backend: Ruby Rails (repo [here](https://github.com/gonzalober/acebook-team-life-savers)), Frontend: React Native (repo [here](https://github.com/charlie-galb/acebook-team-lifesavers-frontend)), Postgres API interface ActiveRecord | Rspec, Jest |
+
+- CFA Level 1 (2019): Chartered Financial Analyst.
+- 2015 - 2016 MSc Finance [Exchange Programme] European Business School, London.
+- 2014 - 2015 MSc Finance CEMA University, Buenos Aires.
+- 2005 - 2010 Bachelor of Business Administration, Finance Universidad Nacional del Centro de la Provincia de Buenos Aires.
+
 ## Experience
-
-#### September 2020 – December 2020 Makers: intensive coding bootcamp, London
-
-
 
 #### January 2019 – July 2020 Dyer Baade & Company (formerly Soprano Consulting), London Senior Financial Analyst
 
@@ -57,36 +69,24 @@ I am confident that my previous experience is a highly valuable asset to build m
 
 #### October 2009 – February 2011 KPMG, Buenos Aires Senior Auditor
 
-- Audited financial statements under IFRS and Argentine GAAP.
-- Credit and loan revision of the accounting records applying research and analyses process.
-- Performed risk assessments on key business activities covering the risk of material mis-statement.
 - Managed and supervised a team of junior colleagues.
+- Credit and loan revision of the accounting records applying research and analyses process.
 
-## Education
+## Skills
 
-- 2020 Makers Academy Software Development Bootcamp.
-I worked on different full stack projects with emphasis on Javascript, Ruby, TDD, integration tests, pair programming and CI/CD with Travis.
-Some of the projects I worked on were:
-- CatchMe app: a web application that allows you to race with your friends remotely. The backend is done with Node.js, frontend with React, they communicate with a graphql API, database with PostgreSQL and to get the coordinates it uses the web navigator geolocation API(Javascript). Frontend repo [here](https://github.com/gonzalober/catchme-web), backend repo [here](https://github.com/kiriarf/catchme-server).
-- Acebook App: a web application where the user can post public messages where its friends can see and comment and/or like on their messages. The backend is built in Ruby on Rails, frontend with React Native, API interface ActiveRecord, database with PostgreSQL. Frontend repo [here](https://github.com/charlie-galb/acebook-team-lifesavers-frontend), backend repo [here](https://github.com/gonzalober/acebook-team-life-savers).
-- CFA Level 1 (2019): Chartered Financial Analyst.
-- 2015 - 2016 MSc Finance [Exchange Programme] European Business School, London.
-- 2014 - 2015 MSc Finance CEMA University, Buenos Aires.
-- 2005 - 2010 Bachelor of Business Administration, Finance Universidad Nacional del Centro de la Provincia de Buenos Aires.
+#### Curiosity
 
-## Training & Skills
+I started being fascinated about programming 5 years ago when I was doing eDx Data science on python courses.
+These courses were really an eye opener to me as I discovered how vast and interesting the coding world is.
 
-- Nodejs
-- Javascript
-- React
-- PostgreSQL
-- GraphQL
-- Apollo Server
-- Ruby
-- Modelling
+#### Team player
+
+My experience have demostrated me that when working in a team increases the commitment of each team member with the team's objective. As a consequence, team's output will be higher quality and with fewer errors. I also have ability, when necessary, to stepback in order to evaluate the different alternatives that my team-mates are proposing.
+
+## Training
+
 - Databases and SQL for Data Science (2020). Coursera
-- Foundations of Data Science (2018): Computational Thinking with Python and Inferential Thinking by
-  Resampling. University of California, Berkeley (edX)
+- Foundations of Data Science (2018): Computational Thinking with Python and Inferential Thinking by Resampling. University of California, Berkeley (edX)
 - Technical and Fundamental Analysis Course (2014), CEMA University
 - Executive Programme in Capital Markets (2013), CEMA University
 - Presentation, Leadership and Coaching training (2010), KPMG
