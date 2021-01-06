@@ -13,8 +13,8 @@ I am confident that my previous experience is a highly valuable asset to build m
 ## Education
 
 - Sept to Dec 2020 Makers Academy Software Development Bootcamp.<br>
-  - Nodejs, Javascript, React, PostgreSQL, GraphQL, Apollo Server, Ruby<br>
-  - I worked on different full stack projects with emphasis on Javascript, Ruby, TDD, integration tests, pair programming, CI/CD with Travis, Heroku<br>
+  Nodejs, Javascript, React, PostgreSQL, GraphQL, Apollo Server, Ruby<br>
+  I worked on different full stack projects with emphasis on Javascript, Ruby, TDD, integration tests, pair programming, CI/CD with Travis, Heroku<br>
   Some of the projects I worked on were:<br>
   | Name | Description | Technologies | Testing |
   | -------------------------- |:-----------------------------------------------------------------------------:|:-------------------|-------------------|
