@@ -19,7 +19,7 @@ I am confident that my previous experience is a highly valuable asset to build m
   | Name | Description | Technologies | Testing |
   | -------------------------- |-----------------------------------------------------------------------------|-------------------|-------------------|
   | [CatchMe app](https://github.com/gonzalober/catchme-web) | A web application that allows you to race with your friends remotely | Backend: Node.js (repo [here](https://github.com/kiriarf/catchme-server)), Frontend: React (repo [here](https://github.com/gonzalober/catchme-web)), PostgreSQL, Graphql, get the coordinates it uses the web navigator geolocation API(Javascript) | Cypress.io |
-  | [Acebook App](https://github.com/charlie-galb/acebook-team-lifesavers-frontend) | A web application where the user can post public messages where its friends can see and comment and/or like on their messages. | Backend: Ruby Rails (repo [here](https://github.com/gonzalober/acebook-team-life-savers)), Frontend: React Native (repo [here](https://github.com/charlie-galb/acebook-team-lifesavers-frontend)), PostgreSQL API interface ActiveRecord | Rspec, Jest |
+  | [Acebook App](https://github.com/charlie-galb/acebook-team-lifesavers-frontend) | A web application where the user can post public messages where its friends can see and comment and/or like on their messages. | Backend: Ruby Rails (repo [here](https://github.com/gonzalober/acebook-team-life-savers)), Frontend: React (repo [here](https://github.com/charlie-galb/acebook-team-lifesavers-frontend)), PostgreSQL API interface ActiveRecord | Rspec, Jest |
 
 - CFA Level 1 (2019): Chartered Financial Analyst.
 - 2015 - 2016 MSc Finance [Exchange Programme] European Business School, London.
