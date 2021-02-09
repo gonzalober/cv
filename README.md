@@ -12,7 +12,7 @@ With the skills I have developed during the bootcamp and in my previous career, 
   Some of the projects I worked on were:<br>
   | Name | Description | Technologies | Testing |
   | -------------------------- |-----------------------------------------------------------------------------|-------------------|-------------------|
-  | [CatchMe app](https://github.com/gonzalober/catchme-web) | A web application that allows you to race with your friends remotely | Backend: Node.js (repo [here](https://github.com/kiriarf/catchme-server)), Frontend: React (repo [here](https://github.com/gonzalober/catchme-web)), PostgreSQL, Graphql, geolocation API(Javascript) | Cypress.io |
+  | [CatchMe app](https://github.com/gonzalober/catchme-web) | A web application that allows you to race with your friends remotely | Backend: Node.js, Graphql (repo [here](https://github.com/kiriarf/catchme-server)), Frontend: React (repo [here](https://github.com/gonzalober/catchme-web)), PostgreSQL, geolocation API(Javascript) | Cypress.io |
   | [Acebook App](https://github.com/charlie-galb/acebook-team-lifesavers-frontend) | A web application where the user can post public messages where its friends can see and comment and/or like on their messages. | Backend: Ruby Rails (repo [here](https://github.com/gonzalober/acebook-team-life-savers)), Frontend: React (repo [here](https://github.com/charlie-galb/acebook-team-lifesavers-frontend)), PostgreSQL API interface ActiveRecord | Rspec, Jest |
 
 - CFA Level 1 (2019): Chartered Financial Analyst.
