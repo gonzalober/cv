@@ -65,6 +65,7 @@ With the skills I have developed during the bootcamp and in my previous career, 
 ## Training
 
 - Databases and SQL for Data Science (2020). Coursera
+- CFA Institute Level I, 2019
 - Foundations of Data Science (2018): Computational Thinking with Python and Inferential Thinking by Resampling. University of California, Berkeley (edX)
 - Technical and Fundamental Analysis Course (2014), CEMA University
 - Executive Programme in Capital Markets (2013), CEMA University
