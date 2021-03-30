@@ -1,6 +1,6 @@
 # Gonzalo Berhouet
 
-[About me](#about_me) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Training](#training) | [Interests](#interests)
+[About me](#about_me) | [Projects](#projects) | [Tech Stack](#tech_stack) | [Education](#education) | [Experience](#experience) | [Training](#training) | [Interests](#interests)
 
 ## About me
 
@@ -16,18 +16,6 @@ With the skills I have developed during the bootcamp and in my previous career, 
 | [Acebook App](https://github.com/charlie-galb/acebook-team-lifesavers-frontend) | A web application where the user can post public messages where its friends can see and comment and/or like on their messages. | Backend: Ruby (repo [here](https://github.com/gonzalober/acebook-team-life-savers)), Frontend: React (repo [here](https://github.com/charlie-galb/acebook-team-lifesavers-frontend)), PostgreSQL API interface ActiveRecord                         | Rspec, Jest |
 | [MakersBnB](https://github.com/gonzalober/makersbnb)                            | An Airbnb clone created for our Week 5 group project at Makers.                                                                | Backend and Frontend: Ruby - Sinatra framework, PostgreSQL API interface ActiveRecord, BCrypt for auth                                                                                                                                              | Rspec       |
 
-## Education
-
-- Sept to Dec 2020 Makers Academy Software Development Bootcamp.
-  . Object-Oriented Programming, Test Driven Development, Model View Controller design patterns SOLID principles
-  . Agile principles, pair programming, retros, and sprint planning
-  . Web frameworks, version control, and CI/CD to create full stack web apps
-
-- CFA Level 1 (2019): Chartered Financial Analyst.
-- 2015 - 2016 MSc Finance [Exchange Programme] [EBS London](https://www.regents.ac.uk/), London.
-- 2014 - 2015 MSc Finance [CEMA](https://ucema.edu.ar/) University, Buenos Aires.
-- 2005 - 2010 Bachelor of Business Administration, Finance [UNICEN](https://www.unicen.edu.ar/english).
-
 ## Tech stack
 
 - JavaScript (React, Node.js, Express, Apollo, Graphql, Jest, Jasmine, Cypress)
@@ -37,6 +25,19 @@ With the skills I have developed during the bootcamp and in my previous career, 
 - Travis CI, CircleCI
 - Heroku
 - Git, GitHub
+
+## Education
+
+- Sept to Dec 2020 Makers Academy Software Development Bootcamp
+
+  - Object-Oriented Programming, Test Driven Development, Model View Controller design patterns SOLID principles
+  - Agile principles, pair programming, retros, and sprint planning
+  - Web frameworks, version control, and CI/CD to create full stack web apps
+
+- CFA Level 1 (2019): Chartered Financial Analyst.
+- 2015 - 2016 MSc Finance [Exchange Programme] [EBS London](https://www.regents.ac.uk/), London.
+- 2014 - 2015 MSc Finance [CEMA](https://ucema.edu.ar/) University, Buenos Aires.
+- 2005 - 2010 Bachelor of Business Administration, Finance [UNICEN](https://www.unicen.edu.ar/english).
 
 ## Experience
 
@@ -90,3 +91,8 @@ With the skills I have developed during the bootcamp and in my previous career, 
 - Presentation, Leadership and Coaching training (2010), KPMG
 - SAP, Sisense, Eikon Reuters, Sage, Microsoft Office, Factset
 - Language: English (fluent), Spanish (native)
+
+## Interests
+
+- I was a junior professional tennis player and now I really enjoy a match from time to time.
+- As I trully Argentinian I love cooking asado.
