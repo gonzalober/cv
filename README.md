@@ -97,4 +97,4 @@ With the skills I have developed during the bootcamp and in my previous career, 
 ## Interests
 
 - I was a junior professional tennis player and now I really enjoy a match from time to time.
-- As I trully Argentinian I love cooking asado.
+- As a trully Argentinian I love cooking asado.
