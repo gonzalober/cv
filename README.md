@@ -1,25 +1,42 @@
 # Gonzalo Berhouet
 
+[About me](#about_me) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Training](#training) | [Interests](#interests)
+
+## About me
+
 <div style="text-align: justify"> I am a full-stack software developer. My fascination with programming started 5 years ago when I was doing eDx Data science on python courses. This led me to pursue a professional career as a Software Developer. I believed I needed a more serious approach towards this new world and as such, I decided to a career change.
 At Makers Academy I worked on different languages as one of the bootcamp’s strength is that is language agnostic which equipped me with the ability to learn new coding languages depending on the project’s needs. Previously, I worked as a Senior Financial Analyst at Dyer Baade & Company M&A consulting firm in which I worked with financial datasets and models and also strengthened my attention to detail and presentation skills.
 With the skills I have developed during the bootcamp and in my previous career, I believe I can contribute to the company with my ability to work under pressure and meeting tight deadlines. I enjoy working in a team environment and have great written and verbal communication skills. I believe in continuous learning and have been tirelessly investing on training and upskilling myself for future opportunities.</div>
 
+## Projects
+
+| Name                                                                            | Description                                                                                                                    | Technologies                                                                                                                                                                                                                                        | Testing     |
+| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [CatchMe app](https://github.com/gonzalober/catchme-web)                        | A web application that allows you to race with your friends remotely                                                           | Backend: Node.js (repo [here](https://github.com/kiriarf/catchme-server)), Frontend: React (repo [here](https://github.com/gonzalober/catchme-web)), PostgreSQL, Graphql, get the coordinates it uses the web navigator geolocation API(Javascript) | Cypress.io  |
+| [Acebook App](https://github.com/charlie-galb/acebook-team-lifesavers-frontend) | A web application where the user can post public messages where its friends can see and comment and/or like on their messages. | Backend: Ruby (repo [here](https://github.com/gonzalober/acebook-team-life-savers)), Frontend: React (repo [here](https://github.com/charlie-galb/acebook-team-lifesavers-frontend)), PostgreSQL API interface ActiveRecord                         | Rspec, Jest |
+| [MakersBnB](https://github.com/gonzalober/makersbnb)                            | An Airbnb clone created for our Week 5 group project at Makers.                                                                | Backend and Frontend: Ruby - Sinatra framework, PostgreSQL API interface ActiveRecord, BCrypt for auth                                                                                                                                              | Rspec       |
+
 ## Education
 
-- Sept to Dec 2020 Makers Academy Software Development Bootcamp.<br>
-  Nodejs, Javascript, React, PostgreSQL, GraphQL, Apollo Server, Ruby.<br>
-  I worked on different full stack projects with emphasis on Javascript, Ruby, TDD, integration tests, pair programming, CI/CD with Travis, Heroku.<br>
-  Some of the projects I worked on were:<br>
-  | Name | Description | Technologies | Testing |
-  | -------------------------- |-----------------------------------------------------------------------------|-------------------|-------------------|
-  | [CatchMe app](https://github.com/gonzalober/catchme-web) | A web application that allows you to race with your friends remotely | Backend: Node.js (repo [here](https://github.com/kiriarf/catchme-server)), Frontend: React (repo [here](https://github.com/gonzalober/catchme-web)), PostgreSQL, Graphql, get the coordinates it uses the web navigator geolocation API(Javascript) | Cypress.io |
-  | [Acebook App](https://github.com/charlie-galb/acebook-team-lifesavers-frontend) | A web application where the user can post public messages where its friends can see and comment and/or like on their messages. | Backend: Ruby (repo [here](https://github.com/gonzalober/acebook-team-life-savers)), Frontend: React (repo [here](https://github.com/charlie-galb/acebook-team-lifesavers-frontend)), PostgreSQL API interface ActiveRecord | Rspec, Jest |
-  | [MakersBnB](https://github.com/gonzalober/makersbnb) | An Airbnb clone created for our Week 5 group project at Makers. | Backend and Frontend: Ruby - Sinatra framework, PostgreSQL API interface ActiveRecord, BCrypt for auth | Rspec |
+- Sept to Dec 2020 Makers Academy Software Development Bootcamp.
+  . Object-Oriented Programming, Test Driven Development, Model View Controller design patterns SOLID principles
+  . Agile principles, pair programming, retros, and sprint planning
+  . Web frameworks, version control, and CI/CD to create full stack web apps
 
 - CFA Level 1 (2019): Chartered Financial Analyst.
-- 2015 - 2016 MSc Finance [Exchange Programme] European Business School, London.
-- 2014 - 2015 MSc Finance CEMA University, Buenos Aires.
-- 2005 - 2010 Bachelor of Business Administration, Finance Universidad Nacional del Centro de la Provincia de Buenos Aires.
+- 2015 - 2016 MSc Finance [Exchange Programme] [EBS London](https://www.regents.ac.uk/), London.
+- 2014 - 2015 MSc Finance [CEMA](https://ucema.edu.ar/) University, Buenos Aires.
+- 2005 - 2010 Bachelor of Business Administration, Finance [UNICEN](https://www.unicen.edu.ar/english).
+
+## Tech stack
+
+- JavaScript (React, Node.js, Express, Apollo, Graphql, Jest, Jasmine, Cypress)
+- Ruby (Rails, Sinatra, RSpec, Capybara)
+- SQL (PostgreSQL, TablePlus)
+- HTML, CSS (Bootstrap, Material-UI)
+- Travis CI, CircleCI
+- Heroku
+- Git, GitHub
 
 ## Experience
 
