@@ -1,6 +1,6 @@
 # Gonzalo Berhouet
 
-[About me](#about_me) | [Projects](#projects) | [Tech stack](#tech_stack) | [Education](#education) | [Experience](#experience) | [Training](#training) | [Interests](#interests)
+[About me](#about_me) | [Projects](#projects) | [Tech stack](#tech-stack) | [Education](#education) | [Experience](#experience) | [Training](#training) | [Interests](#interests)
 
 ## About me
 
