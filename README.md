@@ -4,7 +4,7 @@
 
 ## About me
 
-<div style="text-align: justify"> I am a full-stack software developer. My fascination with programming started 5 years ago when I was doing eDx Data science on python courses. This led me to pursue a professional career as a Software Developer. I believed I needed a more serious approach towards this new world and as such, I decided to a career change.<br>
+<div style="text-align: justify"> I am a full-stack software developer. My fascination with programming started 5 years ago when I was doing eDx Data science on python courses. This led me to pursue a professional career as a Software Developer. I believed I needed a more serious approach towards this new world and as such, I decided to a career change.
 
 At Makers Academy, I worked on different languages as one of the Bootcamp’s strength is that is language agnostic which equipped me with the ability to learn new coding languages depending on the project’s needs. Previously, I worked as a Senior Financial Analyst at Dyer Baade & Company M&A consulting firm in which I worked with financial datasets and models and also strengthened my attention to detail and presentation skills.
 
